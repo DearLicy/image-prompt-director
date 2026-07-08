@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Prompt Director"
+  short_description: "Natural ideas into pro image prompts"
+  default_prompt: "Use $image-prompt-director to turn my image idea into a production-ready generation prompt."
